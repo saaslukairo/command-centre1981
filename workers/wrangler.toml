@@ -1,0 +1,7 @@
+name = "lukairo-engine"
+main = "workers/app.ts"
+compatibility_date = "2025-01-01"
+workers_dev = true
+
+[vars]
+VALUE_FROM_CLOUDFLARE = "lukairo-edge"
